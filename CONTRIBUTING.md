@@ -11,6 +11,7 @@ Please ensure your pull request adheres to the following guidelines:
 - End all descriptions with a full stop/period.
 - Keep descriptions short and simple, but descriptive.
 - Ensure links provide sufficient details about the app.
+- Include the platform(s) the app is available on in bold.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep the list alphabetical in each category.
 - Check your spelling and grammar.
