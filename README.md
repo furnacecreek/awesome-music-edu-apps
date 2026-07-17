@@ -29,6 +29,7 @@ We are accepting PRs for additional apps (no sample code). Read [CONTRIBUTING.md
 ## Learning
 
 - [Capo](https://supermegaultragroovy.com/products/capo/) - Using the songs in your music collection, Capo guesses the beats, chords, and key of songs to help you break them down to their individual parts. Capo’s unique technology helps you to learn your favorites quickly as you improve your ear along the way. **macOS, iOS (iPhone, iPad)**
+- [Music Maestro](https://music.vensoai.com/parents?utm_source=github&utm_medium=directory&utm_campaign=awesome-music-edu-apps&utm_content=learning) - Browser-based AMEB Piano Grade 1-3 theory, aural, rhythm, and general-knowledge practice with free Grade 1 access and a one-time Grade 2-3 unlock. **Web**
 
 ## Practice Tools
 
