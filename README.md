@@ -29,6 +29,7 @@ We are accepting PRs for additional apps (no sample code). Read [CONTRIBUTING.md
 ## Learning
 
 - [Capo](https://supermegaultragroovy.com/products/capo/) - Using the songs in your music collection, Capo guesses the beats, chords, and key of songs to help you break them down to their individual parts. Capo’s unique technology helps you to learn your favorites quickly as you improve your ear along the way. **macOS, iOS (iPhone, iPad)**
+- [Clef](https://clefdrills.com) - Clef is a sight-reading trainer for adult piano learners, with short daily note-reading drills for treble, bass and ledger notes, plus intervals, key signatures, triads, scales and arpeggios, scheduled with spaced repetition and playable with on-screen controls or a MIDI keyboard. **iOS (iPhone, iPad)**
 
 ## Practice Tools
 
