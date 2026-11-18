@@ -30,6 +30,8 @@ We are accepting PRs for additional apps (no sample code). Read [CONTRIBUTING.md
 
 - [Capo](https://supermegaultragroovy.com/products/capo/) - Using the songs in your music collection, Capo guesses the beats, chords, and key of songs to help you break them down to their individual parts. Capo’s unique technology helps you to learn your favorites quickly as you improve your ear along the way. **macOS, iOS (iPhone, iPad)**
 
+- [Ivories.music](https://ivories.music/) - Piano note-reading game with on-screen keys, microphone input and a personal practice heat map. **iOS (iPhone, iPad), Android**.
+
 ## Practice Tools
 
 - [Hanon Pro](https://furnacecreek.org/hanon/) – Hanon Pro is an app that helps improve your piano technique with repertoire and exercises modernized for the digital age. Just like health and fitness apps track your physical health over time, Hanon Pro does the same for piano practice. **macOS, iOS (iPhone, iPad)**
